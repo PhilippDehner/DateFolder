@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Release\
 DataFolder
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\App.xaml
 2965885679
 
-7-925775649
+6-560947781
 14-1290796308
 ConfigurationFolders.xaml;MainWindow.xaml;
 

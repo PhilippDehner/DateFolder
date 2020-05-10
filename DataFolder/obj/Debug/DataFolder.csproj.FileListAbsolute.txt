@@ -1,0 +1,15 @@
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.csprojAssemblyReference.cache
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\App.g.cs
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder_MarkupCompile.cache
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\MainWindow.g.cs
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder_MarkupCompile.lref
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\bin\Debug\DataFolder.exe.config
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\bin\Debug\DataFolder.exe
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\bin\Debug\DataFolder.pdb
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\MainWindow.baml
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.g.resources
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.Properties.Resources.resources
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.csproj.GenerateResource.cache
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.csproj.CoreCompileInputs.cache
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.exe
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.pdb
