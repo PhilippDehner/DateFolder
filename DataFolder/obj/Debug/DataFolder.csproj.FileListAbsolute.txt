@@ -1,4 +1,3 @@
-C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.csprojAssemblyReference.cache
 C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\App.g.cs
 C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder_MarkupCompile.cache
 C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\MainWindow.g.cs
