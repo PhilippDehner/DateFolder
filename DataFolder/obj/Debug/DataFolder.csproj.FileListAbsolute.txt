@@ -12,3 +12,4 @@ C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.
 C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.csproj.CoreCompileInputs.cache
 C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.exe
 C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.pdb
+C:\Users\philb\Source\Repos\trophi20\DateFolder\DataFolder\obj\Debug\DataFolder.csprojAssemblyReference.cache
